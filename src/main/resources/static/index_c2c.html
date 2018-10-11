@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<!--
+  ~ Copyright 2018-2019 JPMorgan Chase
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~ http://www.apache.org/licenses/LICENSE-2.0
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<!-- This is the controller, which runs as a persistent iFrame, out of the user's view -->
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Clcik2Call - Controller</title>
+    <META HTTP-EQUIV="Pragma" CONTENT="no-cache">
+    <META HTTP-EQUIV="Expires" CONTENT="-1">
+    <meta http-equiv="cache-control" content="no-cache, no-store" />
+</head>
+<body>
+
+<!-- Include the Symphony Client Extensions API javascript -->
+<script type="text/javascript" src="https://www.symphony.com/resources/api/v1.0/symphony-api.js" charset="utf-8"></script>
+
+<!-- This add the "appId" dynamically from app-auth-example app.  -->
+<script type="text/javascript" src="config/appConfig" charset="utf-8"></script>
+
+<!-- jQuery and ajax library from app-auth-example app.  -->
+<script type="text/javascript" src="scripts/libs/q.js" charset="utf-8"></script>
+<script type="text/javascript" src="scripts/libs/jquery-1.11.3.js" charset="utf-8"></script>
+<script type="text/javascript" src="scripts/libs/ajax.js" charset="utf-8"></script>
+
+<!-- Include the click 2 call app controller javascript.  -->
+<script type="text/javascript" src="scripts/c2c_controller.js" charset="utf-8"></script>
+</body>
+</html>
+
