@@ -2,6 +2,10 @@
 
 The Symphony Click to Call (C2C) API will add 'Call Work' button and integration feature on to user hover card and profile in Symphony to trigger call. This feature can be used to integrate with Enterprise Telephony API.
 
+## Contribute
+
+This project was initiated at [J.P. Morgan](https://www.jpmorgan.com/). 
+Contributions are accepted via GitHub pull requests. All contributors must be covered by contributor license agreements to comply with the Code Contribution Process.
 
 ## Requirements
 
@@ -69,8 +73,3 @@ Please find the following best-practices when implementing the API:
 *	Adding authentication to REST Services in Spring BOOT.
 *	Logging usage data.
 *	Based on the server load have multiple server instances of the application.
-
-## Contribute
-
-This project was initiated at [J.P. Morgan](https://www.jpmorgan.com/). 
-Contributions are accepted via GitHub pull requests. All contributors must be covered by contributor license agreements to comply with the Code Contribution Process.
