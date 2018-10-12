@@ -1,6 +1,6 @@
 # Click to call Integration
 
-The J.P. Morgan Symphony Click to Call (C2C) Feature will add the 'Call' button integration feature from the user hover card in Symphony to trigger 'click to call'. This feature can be used to integrate with Enterprise telephony APIs.
+The Symphony Click to Call (C2C) Feature will add the 'Call' button integration feature from the user hover card in Symphony to trigger 'click to call'. This feature can be used to integrate with Enterprise telephony APIs.
 
 ## Contribute
 
