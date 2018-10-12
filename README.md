@@ -15,7 +15,7 @@ The Symphony Click to Call (C2C) API will add 'Call Work' button and integration
 	
 ## Integration Steps
 
-	Follow these steps to integrate the click to call feature:
+Follow these steps to integrate the click to call feature:
 
 *   Download the **app-auth-example** spring boot project and go over its **READ ME** doc to deploy and start the application. 
 *   Copy the file **c2c_controller.js** and **index_c2c.html** src/main/resources/static from this project to **app-auth-example/src/main/resources/static/** in **app-auth-example** 
@@ -69,3 +69,8 @@ Please find the following best-practices when implementing the API:
 *	Adding authentication to REST Services in Spring BOOT.
 *	Logging usage data.
 *	Based on the server load have multiple server instances of the application.
+
+## Contribute
+
+This project was initiated at [J.P. Morgan](https://www.jpmorgan.com/). 
+Contributions are accepted via GitHub pull requests. All contributors must be covered by contributor license agreements to comply with the Code Contribution Process.
