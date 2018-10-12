@@ -5,12 +5,12 @@ The Symphony Click to Call (C2C) API will add 'Call Work' button and integration
 
 ## Requirements
 
-		*   Java 8+
-		*   Maven 3.0+
-		*   Pod at least at 1.45
-		*   A certificate for your extension app (with the Subject common name matching app ID) with signing cert uploaded to the pod [More Info](https://extension-api.symphony.com/docs/application-authentication)
-		*   Keystore with private cert for your app (configure location in application.yaml)
-		*   **app-auth-example** project from Symphony Foundation [Click Here](https://github.com/symphonyoss/app-auth-example) 
+*   Java 8+
+*   Maven 3.0+
+*   Pod at least at 1.45
+*   A certificate for your extension app (with the Subject common name matching app ID) with signing cert uploaded to the pod [More Info](https://extension-api.symphony.com/docs/application-authentication)
+*   Keystore with private cert for your app (configure location in application.yaml)
+*   **app-auth-example** project from Symphony Foundation [Click Here](https://github.com/symphonyoss/app-auth-example) 
 	
 	
 ## Integration Steps
