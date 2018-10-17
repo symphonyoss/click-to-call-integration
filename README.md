@@ -49,7 +49,7 @@ Follow these steps to integrate the click to call feature:
 		response.setWorkphone((String)userMap.get("workPhone"));
 		
 
-		*	Implement the **makeCall(userPhone, contactPhone)** javascript method in **c2c_controller.js** to invoke ajax call to your **Enterprise Telephony API**
+*	Implement the **makeCall(userPhone, contactPhone)** javascript method in **c2c_controller.js** to invoke ajax call to your **Enterprise Telephony API**
 
 #### c2c_controller.js
 		
