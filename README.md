@@ -1,5 +1,7 @@
 # Click to call Integration
 
+[![FINOS - Archived](https://cdn.jsdelivr.net/gh/finos/contrib-toolbox@master/images/badge-archived.svg)](https://finosfoundation.atlassian.net/wiki/display/FINOS/Archived)
+
 The Symphony Click to Call (C2C) Feature will add the 'Call' button integration feature from the user hover card in Symphony to trigger 'click to call'. This feature can be used to integrate with Enterprise telephony APIs.
 
 ## Contribute
